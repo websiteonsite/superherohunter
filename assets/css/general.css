@@ -26,9 +26,9 @@ html {
 }
 /* -----------------------------CSS Variables----------------------------- */
 :root {
-	--color-primary: #000000;
-	--color-secondary: #ff0000;
-	--color-tertiary: #950101;
+	--color-primary: #9f1626;
+	--color-secondary: #1e357f;
+	--color-tertiary: #d8d21b;
 	--color-quaternary: #fff;
 	--font-poppins: "Poppins", sans-serif;
 	--font-redhat: "Red Hat Display", sans-serif;

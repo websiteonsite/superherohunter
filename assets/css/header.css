@@ -20,7 +20,7 @@ header #logo-img {
 	object-fit: cover;
 	width: 7rem;
 	height: 7rem;
-	border: 2px solid red;
+	border: 2px solid rgb(201, 51, 14);
 	transition: all 0.4s ease-in-out;
 	border-radius: 50%;
 }
